@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# datasets - too big for github
+datasets
+
+# PyCharm settings
+.idea
+

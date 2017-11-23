@@ -1,2 +1,4 @@
 # PyVAD
-A Neural Network Based VAD in Python
+A Neural Network Based VAD in Python.
+
+
